@@ -1,1 +1,4 @@
-alert("JavaScript works!");
+// Moises Montalvo
+// 8/6/12
+// Project 2
+// Space Ship Escape: Episode II
