@@ -3,5 +3,11 @@
 // Project 2
 // Space Ship Escape: Episode II
 
-var health = 10;
+var string = "";
+	number = 0;
+	array = [
+	
+];
+
+
 	
