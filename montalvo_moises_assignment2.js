@@ -3,11 +3,24 @@
 // Project 2
 // Space Ship Escape: Episode II
 
-var string = "";
-	number = 0;
+//Variables
+
+var string = "",
+	number = 0,
 	array = [
-	
+
 ];
 
+var printMessage = function(message) { 
+	console.log(message);
+};
 
-	
+//Procedure
+
+//Boolean Function
+
+//Number Function
+
+//String Function
+
+//Array Function
